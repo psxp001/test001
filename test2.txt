@@ -1,85 +1,85 @@
-POST https://ips01-c21051.stage.planetart.com/webservices/admin/upload_ucd_files.php?design_id=40402 HTTP/1.1
-Host: ips01-c21051.stage.planetart.com
+POST http://ips01.dev.planetart.com/webservices/admin/upload_ucd_files.php?design_id=40402 HTTP/1.1
+Host: ips01.dev.planetart.com
 Connection: keep-alive
 Content-Length: 23874841
-Origin: https://admin-c21051.stage.planetart.com
+Origin: http://admin.dev.planetart.com
 User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.107 Safari/537.36
-Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryuahse3JPwOew8AmA
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundarytwp5zT9VaVtAow3w
 Accept: */*
-Referer: https://admin-c21051.stage.planetart.com/design_templates/edit_design.php?design_id=40402&selected_tab=Test
+Referer: http://admin.dev.planetart.com/design_templates/edit_design.php?design_id=40402&selected_tab=Test
 Accept-Encoding: gzip, deflate
 Accept-Language: en-US,en;q=0.8
 
-------WebKitFormBoundaryuahse3JPwOew8AmA
+------WebKitFormBoundarytwp5zT9VaVtAow3w
 Content-Disposition: form-data; name="do"
 
 1
-------WebKitFormBoundaryuahse3JPwOew8AmA
+------WebKitFormBoundarytwp5zT9VaVtAow3w
 Content-Disposition: form-data; name="zip_file"; filename=""
 Content-Type: application/octet-stream
 
 
-------WebKitFormBoundaryuahse3JPwOew8AmA
+------WebKitFormBoundarytwp5zT9VaVtAow3w
 Content-Disposition: form-data; name="xml_front"; filename=""
 Content-Type: application/octet-stream
 
 
-------WebKitFormBoundaryuahse3JPwOew8AmA
+------WebKitFormBoundarytwp5zT9VaVtAow3w
 Content-Disposition: form-data; name="psd_file_front"; filename=""
 Content-Type: application/octet-stream
 
 
-------WebKitFormBoundaryuahse3JPwOew8AmA
+------WebKitFormBoundarytwp5zT9VaVtAow3w
 Content-Disposition: form-data; name="review_sample_full_front"; filename=""
 Content-Type: application/octet-stream
 
 
-------WebKitFormBoundaryuahse3JPwOew8AmA
+------WebKitFormBoundarytwp5zT9VaVtAow3w
 Content-Disposition: form-data; name="print_front"; filename=""
 Content-Type: application/octet-stream
 
 
-------WebKitFormBoundaryuahse3JPwOew8AmA
+------WebKitFormBoundarytwp5zT9VaVtAow3w
 Content-Disposition: form-data; name="sample_full_master_front"; filename=""
 Content-Type: application/octet-stream
 
 
-------WebKitFormBoundaryuahse3JPwOew8AmA
+------WebKitFormBoundarytwp5zT9VaVtAow3w
 Content-Disposition: form-data; name="background_front"; filename=""
 Content-Type: application/octet-stream
 
 
-------WebKitFormBoundaryuahse3JPwOew8AmA
+------WebKitFormBoundarytwp5zT9VaVtAow3w
 Content-Disposition: form-data; name="xml_back"; filename=""
 Content-Type: application/octet-stream
 
 
-------WebKitFormBoundaryuahse3JPwOew8AmA
+------WebKitFormBoundarytwp5zT9VaVtAow3w
 Content-Disposition: form-data; name="psd_file_back"; filename=""
 Content-Type: application/octet-stream
 
 
-------WebKitFormBoundaryuahse3JPwOew8AmA
+------WebKitFormBoundarytwp5zT9VaVtAow3w
 Content-Disposition: form-data; name="review_sample_full_back"; filename=""
 Content-Type: application/octet-stream
 
 
-------WebKitFormBoundaryuahse3JPwOew8AmA
+------WebKitFormBoundarytwp5zT9VaVtAow3w
 Content-Disposition: form-data; name="print_back"; filename=""
 Content-Type: application/octet-stream
 
 
-------WebKitFormBoundaryuahse3JPwOew8AmA
+------WebKitFormBoundarytwp5zT9VaVtAow3w
 Content-Disposition: form-data; name="sample_full_master_back"; filename=""
 Content-Type: application/octet-stream
 
 
-------WebKitFormBoundaryuahse3JPwOew8AmA
+------WebKitFormBoundarytwp5zT9VaVtAow3w
 Content-Disposition: form-data; name="background_back"; filename=""
 Content-Type: application/octet-stream
 
 
-------WebKitFormBoundaryuahse3JPwOew8AmA
+------WebKitFormBoundarytwp5zT9VaVtAow3w
 Content-Disposition: form-data; name="zip_file"; filename="40401.zip"
 Content-Type: application/x-zip-compressed
 
